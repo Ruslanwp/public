@@ -1,0 +1,11 @@
+.image {
+    display: flex;
+}
+
+#parent {
+    width: 50px;
+}
+
+#inputPhone {
+    width: 100%;
+}
