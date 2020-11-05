@@ -1,4 +1,4 @@
-var countries = [
+const countries = [
     {
         name: "Afghanistan",
         dial_code: "+93",
@@ -1332,13 +1332,13 @@ var countries = [
     },
     {
         name: "Saint Kitts and Nevis",
-        dial_code: "+1 869",
+        dial_code: "+1869",
         code: "KN",
         flag: "kn.png"
     },
     {
         name: "Saint Lucia",
-        dial_code: "+1 758",
+        dial_code: "+1758",
         code: "LC",
         flag: "lc.png"
     },
@@ -1356,7 +1356,7 @@ var countries = [
     },
     {
         name: "Saint Vincent and the Grenadines",
-        dial_code: "+1 784",
+        dial_code: "+1784",
         code: "VC",
         flag: "vc.png"
     },
